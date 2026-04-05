@@ -51,7 +51,7 @@ Currently building **NixPanel** — an ultra-fast, secure alternative to cPanel,
   <a href="https://github.com/NixReaper/nixpanel-server">
     <img src="https://github-readme-stats-six-liard-33.vercel.app/api/pin/?username=NixReaper&repo=nixpanel-server&theme=chartreuse-dark&hide_border=true" />
   </a>
-</p>
+</p> 
 
 ```bash
 $ project --info NixPanel
