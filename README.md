@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building-000000?style=for-the-badge&logo=github&logoColor=39FF14" />
   <img src="https://img.shields.io/badge/Focus-NixPanel-000000?style=for-the-badge&logo=gnubash&logoColor=39FF14" />
-  <img src="https://img.shields.io/badge/Vibe-Dark%20%2B%20Neon-000000?style=for-the-badge&logo=ghost&logoColor=39FF14" />
+
 </p>
 
 ---
