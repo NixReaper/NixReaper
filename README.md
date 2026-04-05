@@ -89,13 +89,6 @@ Forged in darkness, built to dominate. Accounts, DNS, SSL, and config — Node.j
 
 ---
 
-## live activity feed
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## connect
 
 <p>
