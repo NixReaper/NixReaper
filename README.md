@@ -15,7 +15,7 @@
 ## whoami
 ```bash
 $ whoami
-Kris Parish aka NixReaper
+Kris aka NixReaper
 $ role
 Full-stack developer
 $ stack
