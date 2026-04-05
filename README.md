@@ -49,7 +49,7 @@ Currently building **NixPanel** — an ultra-fast, secure alternative to cPanel,
 
 <p align="center">
   <a href="https://github.com/NixReaper/nixpanel-server">
-    <img src="https://github-readme-stats-cf86ysoxa-nixreapers-projects.vercel.app/api/pin/?username=NixReaper&repo=nixpanel-server&theme=chartreuse-dark&hide_border=true" />
+    <img src="https://github-readme-stats-six-liard-33.vercel.app/api/pin/?username=NixReaper&repo=nixpanel-server&theme=chartreuse-dark&hide_border=true" />
   </a>
 </p>
 
@@ -68,8 +68,8 @@ A modern hosting control panel built for developers who want speed, control, sec
 ## system.stats()
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-cf86ysoxa-nixreapers-projects.vercel.app/api?username=NixReaper&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats-cf86ysoxa-nixreapers-projects.vercel.app/api/top-langs/?username=NixReaper&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-liard-33.vercel.app/api?username=NixReaper&show_icons=true&theme=chartreuse-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-six-liard-33.vercel.app/api/top-langs/?username=NixReaper&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 <p align="center">
