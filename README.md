@@ -61,7 +61,7 @@ Goal:    Replace bloated panels
 Status:  Active Development
 ```
 
-A modern hosting control panel built for developers who want speed, control, security, and zero bloat.
+Forged in darkness, built to dominate. Accounts, DNS, SSL, and config — Node.js + TypeScript, zero bloat, zero survivors.
 
 ---
 
